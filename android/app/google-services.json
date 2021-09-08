@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816055011172",
+    "project_id": "imageuploadtest-95530",
+    "storage_bucket": "imageuploadtest-95530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816055011172:android:9346173553e1c5e5b61c71",
+        "android_client_info": {
+          "package_name": "com.example.teletest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816055011172-8624u2tcd52ej3mj7tlnnvoucb5kk6na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKcsD2bEAZGruAZeO-cGzarQWVL-Zi5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816055011172-8624u2tcd52ej3mj7tlnnvoucb5kk6na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
